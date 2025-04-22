@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://michaelpush.micro.blog/2025/04/22/serie-bleibt-serie-once-again/",
+				
+				"content_html": "<p>Serie bleibt Serie. Once again: Der Workshop ist vorbei.</p>\n<p>#likeatweetin2012</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Serie bleibt Serie. Once again: Der Workshop ist vorbei.\r\n\r\n#likeatweetin2012\n\n<img src=\"uploads/2025/express-collage.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-22T16:18:01+02:00",
+				"url": "https://push.michaelschieben.com/2025/04/22/serie-bleibt-serie-once-again/",
+				"tags": ["likeatweetin2012"]
+			},
+			{
+				"id": "http://michaelpush.micro.blog/2025/04/17/gebraucht-gekauft-weil-ein-gutes/",
+				
+				"content_html": "<p>gebraucht gekauft - weil ein gutes buch mehr als text ist</p>\n<p>#likeatweetin2012</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "gebraucht gekauft - weil ein gutes buch mehr als text ist\r\n\r\n#likeatweetin2012\n\n<img src=\"uploads/2025/3848f084-6ca0-4b99-8a07-c09e171cd678-1-105-c.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-17T10:51:11+02:00",
+				"url": "https://push.michaelschieben.com/2025/04/17/gebraucht-gekauft-weil-ein-gutes/",
+				"tags": ["likeatweetin2012"]
+			},
+			{
 				"id": "http://michaelpush.micro.blog/2025/04/17/der-workshop-ist-vorbei-mit/",
 				
 				"content_html": "<p>Der Workshop ist vorbei – mit dem dritten Post ist es eine echte Serie.</p>\n<p>#likeatweetin2012</p>\n<!-- raw HTML omitted -->\n",
