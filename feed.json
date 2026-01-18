@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://michaelpush.micro.blog/2026/01/16/die-zweite-webseite-die-ich/",
+				
+				"content_html": "<p>Die zweite Webseite, die ich 2026 online stelle. Mit ganz viel <em>Akzeptanz von Vorläufigkeit</em> rechtzeitig fertig. Hello <a href=\"https://Take-Aw.ai\">Take-Aw.ai</a>.</p>\n<p>Technische Notizen zum Hintergrund:</p>\n<ul>\n<li>CMS: Kirby <a href=\"https://getkirby.com/\">getkirby.com/,</a> ich lieb es immer wieder - danke für die Empfehlung <a href=\"https://christophlocher.com/\">Christoph Locher</a></li>\n<li>Coding Agents + die Formstrenge von Kirby passen wunderbar zusammen, klasse dieses <a href=\"https://github.com/bnomei/kirby-mcp\">Kirby MCP</a></li>\n<li>ich sollte noch ein paar console.logs entfernen ;)</li>\n</ul>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Die zweite Webseite, die ich 2026 online stelle. Mit ganz viel *Akzeptanz von Vorläufigkeit* rechtzeitig fertig. Hello [Take-Aw.ai](https://Take-Aw.ai). \n\nTechnische Notizen zum Hintergrund:\n- CMS: Kirby [getkirby.com/,](https://getkirby.com/) ich lieb es immer wieder - danke für die Empfehlung [Christoph Locher](https://christophlocher.com/)\n- Coding Agents + die Formstrenge von Kirby passen wunderbar zusammen, klasse dieses [Kirby MCP](https://github.com/bnomei/kirby-mcp)\n- ich sollte noch ein paar console.logs entfernen ;)\n\n<img src=\"uploads/2026/take-aw.ai-website-2026.png\">\n",
+				"date_published": "2026-01-16T10:23:53+01:00",
+				"url": "https://push.michaelschieben.com/2026/01/16/die-zweite-webseite-die-ich/"
+			},
+			{
 				"id": "http://michaelpush.micro.blog/2026/01/16/diemessistvorbei-startet-hier-eine-neue/",
 				
-				"content_html": "<p>#diemessistvorbei – Startet hier eine neue Serie? War gestern kurz zu Besuch auf der <a href=\"https://www.boe-international.de/\">boe - best of events</a>. Shoutout an Team Take-Aw.ai und die freundlichen Menschen von <a href=\"https://livevoice.io/de\">Livevoice</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#diemessistvorbei – Startet hier eine neue Serie? War gestern kurz zu Besuch auf der [boe - best of events](https://www.boe-international.de/). Shoutout an Team Take-Aw.ai und die freundlichen Menschen von [Livevoice](https://livevoice.io/de).\n\n<img src=\"uploads/2026/die-messe-ist-vorbei.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p>#diemesseistvorbei – Startet hier eine neue Serie? War gestern kurz zu Besuch auf der <a href=\"https://www.boe-international.de/\">boe - best of events</a>. Shoutout an Team Take-Aw.ai und die freundlichen Menschen von <a href=\"https://livevoice.io/de\">Livevoice</a>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#diemesseistvorbei – Startet hier eine neue Serie? War gestern kurz zu Besuch auf der [boe - best of events](https://www.boe-international.de/). Shoutout an Team Take-Aw.ai und die freundlichen Menschen von [Livevoice](https://livevoice.io/de).\n\n<img src=\"uploads/2026/die-messe-ist-vorbei.jpg\">\n",
 				"date_published": "2026-01-16T10:07:33+01:00",
 				"url": "https://push.michaelschieben.com/2026/01/16/diemessistvorbei-startet-hier-eine-neue/"
 			},
