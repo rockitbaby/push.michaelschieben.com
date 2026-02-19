@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://michaelpush.micro.blog/2026/02/19/der-workshop-geht-gleich-los/",
+				
+				"content_html": "<p>der workshop geht gleich los.</p>\n<p>sagte ich, dass ich insbesondere gerne auch mit hamburg bezug moderiere? heute viel neues am alten wall gepusht.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "der workshop geht gleich los.\n\nsagte ich, dass ich insbesondere gerne auch mit hamburg bezug moderiere? heute viel neues am alten wall gepusht.\n\n<img src=\"uploads/2026/80f76690ef.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-19T18:53:50+01:00",
+				"url": "https://push.michaelschieben.com/2026/02/19/der-workshop-geht-gleich-los/"
+			},
+			{
 				"id": "http://michaelpush.micro.blog/2026/02/13/valentin-macht-eine-app-fr/",
 				
 				"content_html": "<ol>\n<li>\n<p><a href=\"https://www.linkedin.com/posts/valentinheyde_ich-habe-eine-app-gebaut-ich-muss-das-activity-7428074493073342464-9tLh?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAC4YLUEBAj-teSKYyMltt4ICmaGJxMmMtYk\">Valentin macht eine App für einen Facilitation Use-Case</a></p>\n</li>\n<li>\n<p>Mit <a href=\"http://davidgwiasda.de/\">David</a> laufe ich entlang der Alster.</p>\n</li>\n</ol>\n<p><strong>Eine These entwickelt sich: Der Begriff &ldquo;App&rdquo; wird aus dem Sprachgebrauch verschwinden. So selten wie wir Elektrizität sagen und sie doch immer nutzen.</strong></p>\n<p>Im Nachgang schickt er mir den Link zu <a href=\"https://wabi.ai/\">WabiAi</a> zu.</p>\n<ol start=\"3\">\n<li>\n<p>Einige Stunden früher, ein anderer Chat: <a href=\"https://tambo.co/\">Tambo</a> und <a href=\"https://nothing.community/d/52739-essential-apps-enters-beta\">nothing</a> – Generative UI.</p>\n</li>\n<li>\n<p>Während andere laut rufen: Building was never the bottleneck, schleicht sich leise ein Gedanke ein. In der Nische schon. Siehe Valentin. Und dies ist jetzt nicht mehr der Fall.</p>\n</li>\n<li>\n<p>Auf dem Rückweg etwas Sorge: Was bleibt, wenn jetzt alle die Anwendungsfälle ihrer Profession mit Expertise ihrer Profession digitalisieren? Bits und Bytes loggen sich ein. Einzig als Helferlein?</p>\n</li>\n</ol>\n",
@@ -43,7 +51,7 @@
 				"id": "http://michaelpush.micro.blog/2026/01/16/die-zweite-webseite-die-ich/",
 				
 				"content_html": "<p>Die zweite Webseite, die ich 2026 online stelle. Mit ganz viel <em>Akzeptanz von Vorläufigkeit</em> rechtzeitig fertig. Hello <a href=\"https://Take-Aw.ai\">Take-Aw.ai</a>.</p>\n<p>Technische Notizen zum Hintergrund:</p>\n<ul>\n<li>CMS: Kirby <a href=\"https://getkirby.com/\">getkirby.com/,</a> ich lieb es immer wieder - danke für die Empfehlung <a href=\"https://christophlocher.com/\">Christoph Locher</a></li>\n<li>Coding Agents + die Formstrenge von Kirby passen wunderbar zusammen, klasse dieses <a href=\"https://github.com/bnomei/kirby-mcp\">Kirby MCP</a></li>\n<li>ich sollte noch ein paar console.logs entfernen ;)</li>\n</ul>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Die zweite Webseite, die ich 2026 online stelle. Mit ganz viel *Akzeptanz von Vorläufigkeit* rechtzeitig fertig. Hello [Take-Aw.ai](https://Take-Aw.ai). \n\nTechnische Notizen zum Hintergrund:\n- CMS: Kirby [getkirby.com/,](https://getkirby.com/) ich lieb es immer wieder - danke für die Empfehlung [Christoph Locher](https://christophlocher.com/)\n- Coding Agents + die Formstrenge von Kirby passen wunderbar zusammen, klasse dieses [Kirby MCP](https://github.com/bnomei/kirby-mcp)\n- ich sollte noch ein paar console.logs entfernen ;)\n\n<img src=\"uploads/2026/take-aw.ai-website-2026.png\">\n",
+				"content_text": "Die zweite Webseite, die ich 2026 online stelle. Mit ganz viel *Akzeptanz von Vorläufigkeit* rechtzeitig fertig. Hello [Take-Aw.ai](https://Take-Aw.ai). \n\nTechnische Notizen zum Hintergrund:\n- CMS: Kirby [getkirby.com/,](https://getkirby.com/) ich lieb es immer wieder - danke für die Empfehlung [Christoph Locher](https://christophlocher.com/)\n- Coding Agents + die Formstrenge von Kirby passen wunderbar zusammen, klasse dieses [Kirby MCP](https://github.com/bnomei/kirby-mcp)\n- ich sollte noch ein paar console.logs entfernen ;)\n\n<img src=\"https://push.michaelschieben.com/uploads/2026/take-aw.ai-website-2026.png\">\n",
 				"date_published": "2026-01-16T10:23:53+01:00",
 				"url": "https://push.michaelschieben.com/2026/01/16/die-zweite-webseite-die-ich/"
 			},
@@ -51,7 +59,7 @@
 				"id": "http://michaelpush.micro.blog/2026/01/16/diemessistvorbei-startet-hier-eine-neue/",
 				
 				"content_html": "<p>#diemesseistvorbei – Startet hier eine neue Serie? War gestern kurz zu Besuch auf der <a href=\"https://www.boe-international.de/\">boe - best of events</a>. Shoutout an Team Take-Aw.ai und die freundlichen Menschen von <a href=\"https://livevoice.io/de\">Livevoice</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#diemesseistvorbei – Startet hier eine neue Serie? War gestern kurz zu Besuch auf der [boe - best of events](https://www.boe-international.de/). Shoutout an Team Take-Aw.ai und die freundlichen Menschen von [Livevoice](https://livevoice.io/de).\n\n<img src=\"uploads/2026/die-messe-ist-vorbei.jpg\">\n",
+				"content_text": "#diemesseistvorbei – Startet hier eine neue Serie? War gestern kurz zu Besuch auf der [boe - best of events](https://www.boe-international.de/). Shoutout an Team Take-Aw.ai und die freundlichen Menschen von [Livevoice](https://livevoice.io/de).\n\n<img src=\"https://push.michaelschieben.com/uploads/2026/die-messe-ist-vorbei.jpg\">\n",
 				"date_published": "2026-01-16T10:07:33+01:00",
 				"url": "https://push.michaelschieben.com/2026/01/16/diemessistvorbei-startet-hier-eine-neue/"
 			},
