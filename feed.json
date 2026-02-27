@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://michaelpush.micro.blog/2026/02/27/es-liegt-ein-sonderbarer-quell/",
+				
+				"content_html": "<blockquote>\n<p>Es liegt ein sonderbarer Quell der Begeisterung für denjenigen, der spricht, in einem menschlichen Antlitz, das ihm gegenübersteht; und ein Blick, der uns einen halb ausgedrückten Gedanken schon als begriffen ankündigt, schenkt uns oft den Ausdruck für die ganz andere Hälfte desselben.</p>\n</blockquote>\n<p>— <a href=\"https://projekt-gutenberg.org/authors/heinrich-von-kleist/books/ueber-die-allmaehliche-verfertigung-der-gedanken-beim-reden/\">Über die allmähliche Verfertigung der Gedanken beim Reden</a></p>\n",
+				"content_text": "> Es liegt ein sonderbarer Quell der Begeisterung für denjenigen, der spricht, in einem menschlichen Antlitz, das ihm gegenübersteht; und ein Blick, der uns einen halb ausgedrückten Gedanken schon als begriffen ankündigt, schenkt uns oft den Ausdruck für die ganz andere Hälfte desselben.\n\n— [Über die allmähliche Verfertigung der Gedanken beim Reden](https://projekt-gutenberg.org/authors/heinrich-von-kleist/books/ueber-die-allmaehliche-verfertigung-der-gedanken-beim-reden/)\n",
+				"date_published": "2026-02-27T23:02:27+01:00",
+				"url": "https://push.michaelschieben.com/2026/02/27/es-liegt-ein-sonderbarer-quell/"
+			},
+			{
 				"id": "http://michaelpush.micro.blog/2026/02/19/der-workshop-geht-gleich-los/",
 				
 				"content_html": "<p>der workshop geht gleich los.</p>\n<p>sagte ich, dass ich insbesondere gerne auch mit hamburg bezug moderiere? heute viel neues am alten wall gepusht.</p>\n<!-- raw HTML omitted -->\n",
@@ -43,7 +51,7 @@
 				"id": "http://michaelpush.micro.blog/2026/01/19/heute-erstmalig-begegnet-in-einem/",
 				
 				"content_html": "<p>Heute erstmalig begegnet: In einem Teams-Meeting war <code>@Facilitator</code> eingeladen. I like.</p>\n<p>Im Chat nach 45 Minuten:</p>\n<blockquote>\n<p>Wir sind jetzt etwa auf halber Strecke und das Gespräch bleibt fokussiert und strukturiert.</p>\n</blockquote>\n<p>Und die KI fasst bisherige Schwerpunkte und nächste Schritte treffend zusammen. So aufgeräumt kann ich das nicht. Aber mit mehr Autorität und Charisma. Klar ist: Wertschöpfung verändert sich. Auch hier nur ein leises Erahnen, wie umfassend.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Heute erstmalig begegnet: In einem Teams-Meeting war `@Facilitator` eingeladen. I like.\n\nIm Chat nach 45 Minuten:\n\n> Wir sind jetzt etwa auf halber Strecke und das Gespräch bleibt fokussiert und strukturiert.\n\nUnd die KI fasst bisherige Schwerpunkte und nächste Schritte treffend zusammen. So aufgeräumt kann ich das nicht. Aber mit mehr Autorität und Charisma. Klar ist: Wertschöpfung verändert sich. Auch hier nur ein leises Erahnen, wie umfassend. \n\n\n<img src=\"uploads/2026/teams-my-facilitator.png\" width=\"600\" height=\"583\" alt=\"\">\n",
+				"content_text": "Heute erstmalig begegnet: In einem Teams-Meeting war `@Facilitator` eingeladen. I like.\n\nIm Chat nach 45 Minuten:\n\n> Wir sind jetzt etwa auf halber Strecke und das Gespräch bleibt fokussiert und strukturiert.\n\nUnd die KI fasst bisherige Schwerpunkte und nächste Schritte treffend zusammen. So aufgeräumt kann ich das nicht. Aber mit mehr Autorität und Charisma. Klar ist: Wertschöpfung verändert sich. Auch hier nur ein leises Erahnen, wie umfassend. \n\n\n<img src=\"https://push.michaelschieben.com/uploads/2026/teams-my-facilitator.png\" width=\"600\" height=\"583\" alt=\"\">\n",
 				"date_published": "2026-01-19T13:15:13+01:00",
 				"url": "https://push.michaelschieben.com/2026/01/19/heute-erstmalig-begegnet-in-einem/"
 			},
